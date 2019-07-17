@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Colorer/static/css/main.b14474c6.chunk.css",
+    "main.js": "/Colorer/static/js/main.6ddcbb9d.chunk.js",
+    "main.js.map": "/Colorer/static/js/main.6ddcbb9d.chunk.js.map",
+    "runtime~main.js": "/Colorer/static/js/runtime~main.7ed73085.js",
+    "runtime~main.js.map": "/Colorer/static/js/runtime~main.7ed73085.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/Colorer/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.43204517.chunk.js": "/Colorer/static/js/2.43204517.chunk.js",
+    "static/js/2.43204517.chunk.js.map": "/Colorer/static/js/2.43204517.chunk.js.map",
+    "index.html": "/Colorer/index.html",
+    "precache-manifest.db271e3c2706707f0a33115658c8d13d.js": "/Colorer/precache-manifest.db271e3c2706707f0a33115658c8d13d.js",
+    "service-worker.js": "/Colorer/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/Colorer/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.b14474c6.chunk.css.map": "/Colorer/static/css/main.b14474c6.chunk.css.map"
+  }
+}
