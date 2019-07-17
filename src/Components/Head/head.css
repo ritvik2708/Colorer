@@ -1,0 +1,17 @@
+.letter{
+    font-size: 6rem;
+    margin: 2px;
+    font-family: 'Notable',sans-serif;
+  }
+  @media screen and (max-width : 550px)
+  {
+    .letter{
+        font-size: 4rem;
+    }
+  }
+  @media screen and (max-width : 400px)
+  {
+    .letter{
+        font-size: 2.75rem;
+    }
+  }

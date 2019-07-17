@@ -1,0 +1,36 @@
+.submit{
+    margin-top: 6%;
+    padding:5px 0px;
+    color: white;
+    width: 275px;
+    font-size: 0.8em;
+    text-align: center;
+    border: solid rgba(212, 94, 94, 0.2);
+    border-radius: 10px; 
+    font-family:'Notable',sans-serif;
+    display: block;
+}
+.submit input{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.1em;
+}
+@media screen and (max-width : 680px)
+{
+    .submit{
+        margin: 6% auto;   
+    }
+}
+.marg{
+    margin-top: 20px;
+}
+button{
+    background-color:lightgreen;
+    border-color: lightgreen; 
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: rgba(90, 199, 115, 1);
+    cursor: pointer;
+}

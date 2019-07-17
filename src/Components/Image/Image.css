@@ -1,0 +1,12 @@
+.ma{
+    width: 270px;
+    margin-top: 20px;
+    border-radius: 0px;
+    padding: 2px;
+}
+@media screen and (max-width : 680px)
+{
+    .ma{
+        margin: 20px auto;   
+    }
+}

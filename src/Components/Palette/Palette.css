@@ -1,0 +1,10 @@
+.Palette{
+    margin: 10px;
+    height: 100px;
+    width: 100px;
+}
+.Palette button{
+    margin:2px 2px;
+    width:95px;
+    font-family: 'Notable',sans-serif;
+}
